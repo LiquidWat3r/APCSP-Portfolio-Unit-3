@@ -2,9 +2,7 @@ body{
     background-image: url(Images/backgroundimg.jpg);
 }
 
-#container{
-    border:;
-}
+
 
 #title{
 
@@ -30,7 +28,8 @@ body{
     margin-right:5%;
     margin-bottom:2%;
     background-color:#fafafa;
-    border:3px #f1f1f1 solid;
+    border:0px #f1f1f1 solid;
+    border-radius:3px;
 
 
     
